@@ -1,0 +1,1 @@
+This project aims to improve my javascript skills using NodeJS on the backend, React on the FrontEnd and React Native on the Mobile. The Project was led by the RocketSeat team at OmniStack 11 and the idea is to create an application Web/Mobile to help people who rescue pets.
